@@ -1,0 +1,9 @@
+{
+  "theme": "dark",
+  "target_lang": "pt",
+  "auto_clipboard": true,
+  "font_size": 14,
+  "paused": false,
+  "default_ui": "flet",
+  "lang_display": "en - English"
+}

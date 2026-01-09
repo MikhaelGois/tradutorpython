@@ -1,0 +1,9 @@
+pyperclip
+pynput
+Pillow
+mss
+pytesseract
+requests
+argostranslate  # opcional: para modo offline
+pystray  # opcional: tray icon
+deep-translator  # opcional: usa Google Translate via web (no-key)
